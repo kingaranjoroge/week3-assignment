@@ -1,3 +1,4 @@
+# Question 1
 def calculate_discount(price, discount_percent):
     if discount_percent > 20:
         discount = price * (discount_percent / 100)
@@ -11,6 +12,7 @@ print(calculate_discount(100, 25))
 
 print("\n")
 
+# Question 2
 def calculate_discount(price, discount_percent):
     if discount_percent > 20:
         discount = price * (discount_percent / 100)
